@@ -1,6 +1,6 @@
 ## DevDoc Internal Service Level Agreement
 
-[Developing and working from a Service Level Agreement benefits both internal suppliers and internal customers by providing]:
+Developing and working from a Service Level Agreement benefits both internal suppliers and internal customers by providing:
 
 * Cross-functional perspectives: Teams learn about the work or each other.  It provide an ongoing “cross-functional training” experience.
 * Agreements: It documents actionable expectations, needs, and requests.
