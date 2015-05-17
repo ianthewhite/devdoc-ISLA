@@ -26,4 +26,7 @@ Product managers will schedule a weekly doc sync with the Information Developer(
 #### Schedule awareness
 Information Developers at Rackspace support a minimum of two teams, and often many teams. Besides your product team, your writer could be on another product team, or several. Also, all Information Developers are members of the DevDoc team, which has its own set of issues and tickets that arise. Your writer is a valuable resource. Be encouraging and including. Everything that you can do to help your writer learn the product and develop team rapport will help your product develop world class documentation.
 
-###
+#### Document planned work
+It's helpful for Product Managers to setup up Wiki pages, as appropriate, so the entire team can make doc contributions that the writer can publish. Or, if folks want to contribute and publish docs themselves, be sure that your writer is notified of all doc work. This will help him or her stay on top of what is happening with the documentation, set realistic goals, and avoid duplication of effort.
+
+
