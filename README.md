@@ -23,7 +23,7 @@ Documentation is included in the sprint 0 planning. User stories for docs will b
 #### Weekly doc 1:1 
 Product managers will schedule a weekly doc sync with the Information Developer(s) supporting the product. The purpose of this meeting is to go over documentation impacting changes, review open doc tasks (JIRA, Trello), and help your writer resolve issues. In the begining of the relationship expect lots of questions and prepare to be hands on with training, over time it's expected that your write become a SME of your product. 
 
-#### Forcecasting workload
-Your tech writer serves at least two teams, and often many teams. Besides your product team, your writer could be on another product team, or several. Also, all Information Developers are members of the DevDoc team, which has its own set of issues and tickets that arise. Your writer is a valuable resource. Be encouraging and including. Everything that you can do to help your writer learn the product and develop team rapport will help your product develop world class documentation.
+#### Schedule awareness
+Information Developers at Rackspace support a minimum of two teams, and often many teams. Besides your product team, your writer could be on another product team, or several. Also, all Information Developers are members of the DevDoc team, which has its own set of issues and tickets that arise. Your writer is a valuable resource. Be encouraging and including. Everything that you can do to help your writer learn the product and develop team rapport will help your product develop world class documentation.
 
-
+###
